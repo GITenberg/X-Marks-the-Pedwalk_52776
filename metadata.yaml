@@ -1,10 +1,13 @@
 _repo: X-Marks-the-Pedwalk_52776
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Pederson, John
     gutenberg_agent_id: '47037'
     url: http://www.gutenberg.org/2009/agents/47037
+covers:
+- cover_type: archival
+  image_path: 52776-h/images/cover.jpg
 creator:
   author:
     agent_name: Leiber, Fritz
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25421
     wikipedia: http://en.wikipedia.org/wiki/Fritz_Leiber
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52776#X-Marks-the-Pedwalk
 gutenberg_issued: '2016-08-11'
 gutenberg_type: Text
 identifiers:
